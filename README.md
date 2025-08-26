@@ -1,4 +1,4 @@
-# daraz-data-scraper
+# Daraz Data scraper 
 
 ## Installation:
 ```bash
